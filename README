@@ -1,0 +1,21 @@
+usage: ./christmastree.sh      - prints a colorful christmas tree
+usage: ./christmastree.sh loop - animate the christmas tree (using watch(1))
+
+           *
+          .+
+         $:!$
+        &!.+8#
+       -$!.=![$
+      88_]{}-[o.
+     -~=o$~!.8[;.
+    ;]o*-!#=,_}!#0
+   !#0}=}_]~^^8!+,&
+         #####
+         #####
+
+I found this fun xmas tree from https://github.com/rpulid/christmastree
+on 2015-12-15. The code was quite rough, so I rewrote it. Functionally,
+it remains the same... except it's much faster.
+
+Original script I forked from:
+https://raw.githubusercontent.com/rpulid/christmastree/a764bfa6685694d96b37f308b54fffd9146139ec/christmastree.sh
